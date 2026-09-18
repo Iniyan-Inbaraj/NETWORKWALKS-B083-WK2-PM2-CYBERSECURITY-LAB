@@ -140,7 +140,6 @@ The example results identify these four live hosts:
 10.0.0.5
 ```
 
-> ⚠️ **Submission note:** Replace the example subnet, host count and addresses with the author's actual local-network results before final submission.
 
 ### Host Discovery Evidence
 
